@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="782px" height="161px" viewBox="0 0 782 161" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="4" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.73 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3-days-design" transform="translate(0.000000, -3732.000000)" fill="#292033">
+            <g id="people" transform="translate(0.000000, 2915.000000)">
+                <g id="Group-20" filter="url(#filter-1)" transform="translate(0.000000, 817.000000)">
+                    <path d="M225,122 L138,122 L138,146 L105,146 L105,136 L75,136 L75,122 L0,122 L0,18 L245,18 L245,10 L265,10 L265,0 L298,0 L298,6 L375,6 L375,0 L408,0 L408,10 L443,10 L443,18 L675,18 L675,10 L715,10 L715,0 L763,0 L763,20 L773,20 L773,46 L771,46 L771,94 L761,94 L761,122 L751,122 L751,124 L711,124 L711,139 L663,139 L663,122 L631,122 L631,129 L608,129 L608,122 L599,122 L599,126 L519,126 L519,133 L443,133 L443,122 L417,122 L417,126 L268,126 L268,136 L235,136 L235,126 L225,126 L225,122 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
